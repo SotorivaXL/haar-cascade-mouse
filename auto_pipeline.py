@@ -190,8 +190,8 @@ if __name__ == "__main__":
 
     ap.add_argument("--w",      type=int, default=30, help="janela base W")
     ap.add_argument("--h",      type=int, default=30, help="janela base H")
-    ap.add_argument("--stages", type=int, default=20)
-    ap.add_argument("--feature", choices=["HAAR","LBP"], default="LBP")
+    ap.add_argument("--stages", type=int, default=25)
+    ap.add_argument("--feature", choices=["HAAR","LBP"], default="HAAR")
     ap.add_argument("--minHit",  type=float, default=0.995)
     ap.add_argument("--maxFalse",type=float, default=0.40)
     ap.add_argument("--maxWidth", type=int, default=1024)
