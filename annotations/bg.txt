@@ -63,6 +63,16 @@ C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/147.jpg
 C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/148.jpg
 C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/149.jpg
 C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/15.png
+C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/150.jpg
+C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/151.jpg
+C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/152.jpg
+C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/153.jpg
+C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/154.jpg
+C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/155.jpg
+C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/156.jpg
+C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/157.jpg
+C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/158.jpg
+C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/159.jpg
 C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/16.png
 C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/17.png
 C:/Fontes/proc_images_2025_1/haar-cascade-mouse/dataset/negatives/18.png
